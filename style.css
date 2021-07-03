@@ -12,3 +12,9 @@ body {
                 font-size: 20px;
                 border-color: black;
             }
+        .tile {
+            font-size: 50px;
+            color: #00ff00;
+            font: Arial;
+            /* HUB STYLE */
+        }
