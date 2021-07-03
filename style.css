@@ -4,3 +4,9 @@ body {
 #img-logo {
     top: 20px;
 }
+.ver {
+                float: left;
+                color: red;
+                border: 5px;
+                font: sans-serif;
+            }
