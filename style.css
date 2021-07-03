@@ -9,4 +9,6 @@ body {
                 color: red;
                 border: 5px;
                 font: sans-serif;
+                width: 10;
+                height: 4;
             }
