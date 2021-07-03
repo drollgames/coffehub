@@ -1,2 +1,6 @@
-
-<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.list access to the Google Cloud Storage bucket.</Details></Error>
+<?xml version='1.0' encoding='UTF-8'?>
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>Access denied.</Message>
+  <Details>Anonymous caller does not have storage.objects.create access to <bucket-name>/some-object.txt.</Details>
+</Error>
