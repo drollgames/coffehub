@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <style>
+            .p1 {
+                color: red;
+            }
+            .p2 {
+                color: lightgreen;
+            }
+            .p3 {
+                color: pink;
+            }
+            .p4 {
+                color: cyan;
+            }
+            .pfl {
+                height: 50px;
+                height: 50px;
+                border-radius: 50%;
+            }
+            h1 {
+                font-family: Arial;
+                color: orange;
+            }
+            .lg {
+                font-family: courier;
+                color: red;
+            }
+            .mt {
+                font-family: courier;
+                color: blue;
+            }
+        </style>
+                <link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/icon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/icon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#00fff0">
+<meta name="msapplication-TileImage" content="/icon/ms-icon-144x144.png">
+<meta name="theme-color" content="#00fff0">
+        <meta charset="UTF-8">
+        <title>AMD BOT - Page</title>
+        <meta name="Página do AMD-BOT" content="Descrição">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+        <meta property="og:type" content="website" /><meta property="og:url" content="https://www.coffeehub.ga/" />
+    </head>
+    <body>
+        <p><img src="http://www.coffeehub.ga/img/amd-bot.png" class="pfl">@amd-bot (um bot do discord)
+        <h1>AMD BOT - Page</h1></p>
+        <p></p>
+        <p>
+            • <b>COMANDOS</b>
+            <p></p>
+            <p class="p1">* .add (Adicinar um site ao monitor</p>
+            <p class="p2">* .del/delete (Deletar sites da sua lista)</p>
+            <p class="p3">* .list (sua lista de links)</p>
+            <p class=p4>* .total (Total de links que o bot monitora</p>
+            <p></p>
+            <a href="www.coffeehub.ga/amd/api-add">Adicinar bot ao seu servidor</a>
+            <p><a href="https://github.com/trollgamesgg/amd-bot">Mais Detalhes - Github</a></p></p>
+            <p>- Print do Bot:
+            <p><img src="https://www.coffeehub.ga/img/1626318634934.png"></p>
+            <p class="mt">Motor:<a href="https://discord.js.org">discord.js</a></p>
+            <p class="lg">Linguagem:<a href="https://nodejs.org">NodeJS</a></p>
+            <p>Amd-bot © 2021</p>
+    </body>
+</html>
